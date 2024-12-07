@@ -9,3 +9,4 @@ The original paper uses polynomial fitting on segmented BiF traces as a way to c
 This repository contains multiple parts, each of which is in a separate directory. The following is a brief description of each part:
 
 - `loss_classifier/`: Contains the data and Jupyter notebook for the loss-based classifier. This implementation uses Time Series Clustering via K-Means to classify the loss traces using DTW and resampling.
+- `no_loss_classifier/`: Contains the data and Jupyter notebook for the non loss-based classifier.
