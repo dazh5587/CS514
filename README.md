@@ -12,3 +12,5 @@ This repository contains multiple parts, each of which is in a separate director
 - `no_loss_classifier/`: Contains the data and Jupyter notebook for the non loss-based classifier.
 - `nebby_classifier/`: Contains the subfolder from the Nebby repository that is used to reproduce Nebby's results given a BiF file.
 - `sample_ns3_code/`: Contains an example of an ns-3 simulation to capture the CWND trace of a congestion control algorithm. The code was adapted from this [tutorial](https://spoken-tutorial.org/watch/ns-3+Network+Simulator/Analyzing+TCP+Congestion+window/English/).
+
+The root folder also contains our final report and presentation slides.
